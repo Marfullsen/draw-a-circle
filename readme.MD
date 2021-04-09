@@ -8,7 +8,7 @@
 Just drawing a simple circle with Python using [PIL](https://pypi.org/project/Pillow/) library, the docs are [here](https://pillow.readthedocs.io/en/stable/).
 Also provides function to draw multiple circles.
 
-## Install
+## Install Dependencies & Usage
 1. Install `git`.
 2. Clone, enter the directory.
 ``` 
@@ -35,14 +35,12 @@ or
 ```
 sudo easy_install pillow
 ```
-
-
 4. Open with Python3
 ```
 python draw_a_circle.py
 ```
 5. Enjoy!
-
+PD: the image canvas is always 200 X 200
 ## Examples
 
 [![Screenshot](./screenshot-02.png)](https://github.com/Marfullsen/)
